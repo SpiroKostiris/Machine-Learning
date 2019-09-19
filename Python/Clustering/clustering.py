@@ -1,3 +1,5 @@
+# Covers Andrew Ng's machine learning Coursera: Exercise 7 K-Means Clustering and PCA
+# Implements python version from https://www.johnwittenauer.net/machine-learning-exercises-in-python-part-7/
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
